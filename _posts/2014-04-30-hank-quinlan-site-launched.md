@@ -9,7 +9,5 @@ Thanks to Jonathan McGlone for putting together a cool tutorial to follow: http:
 Total time to build this = 1 Hour
 My goal is to have this website serve many purposes. As a go-to resource to find out more about me, my work, as an electronic lab notebook (ELN), a connection to my photography projects, and to different skills that I pick up along the way - hopefully they can save some time for those of you who are interested in something similar.
 
-ELN's are amazing. I am fascinated by a few approaches. Check them out here:  
-Dr. Carl Boettinger's lab notebook: http://www.carlboettiger.info/lab-notebook.html
-Dr. Alaister Boettinger: http://alistairboettiger.info/wordpress/
-elabFTW
+ELN's are amazing. I am fascinated by a few approaches. Dr. Carl Boettinger's lab notebook: http://www.carlboettiger.info/lab-notebook.html, 
+Dr. Alaister Boettinger: http://alistairboettiger.info/wordpress/, and a third party freeware hosted on your own server, elabFTW: http://www.elabftw.net/. More later...
