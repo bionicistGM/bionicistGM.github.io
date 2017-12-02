@@ -1,4 +1,4 @@
 name: Gaurav Mukherjee, Mad Scientist in the making
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-remote_theme: Chalk
+remote_theme: nielsenramon/chalk
